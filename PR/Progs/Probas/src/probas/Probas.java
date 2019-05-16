@@ -12,7 +12,7 @@ public class Probas {
         ProbaFechas.ProbasFechas();
         /*
         BufferedReader lee = new BufferedReader (new InputStreamReader(System.in));
-        
+        ENTONCES SÍ// SO WHAT
         System.out.printf("Escribe un numero entre 1 y 1000: ");
         float numero = Float.parseFloat(lee.readLine());     
                 
